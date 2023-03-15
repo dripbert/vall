@@ -1,5 +1,5 @@
 # vall
-Very simple shell script for vocab learning
+Very simple bash script for vocab learning
 
 # Usage
 By default the script reads words from ~/.vall_dict.  
