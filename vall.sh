@@ -1,5 +1,5 @@
 #!/bin/bash
-file="/home/robert/.vall_dict"
+file="$HOME/.vall_dict"
 
 p=0
 r=0
